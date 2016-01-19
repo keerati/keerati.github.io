@@ -44,7 +44,10 @@ $(function() {
 		githubUserSettings: {
 			username: 'keerati',
 			repo: 'keerati.github.io'
-		}
+		},
+    githubSettings: {
+      branch: 'master'
+    }
 
 	});
 
