@@ -46,7 +46,8 @@ $(function() {
 			repo: 'keerati.github.io'
 		},
     githubSettings: {
-      branch: 'master'
+      branch: 'master',
+      host: 'https://api.github.com'
     }
 
 	});
