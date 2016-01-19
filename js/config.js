@@ -16,7 +16,7 @@ $(function() {
 
 		// Navigation items
 		siteNavItems: [
-			{ name: 'Github', href: 'https://github.com/keerati', newWindow: false},
+			{ name: 'GitHub', href: 'https://github.com/keerati', newWindow: false},
 			{ name: 'About'}
 		],
 
